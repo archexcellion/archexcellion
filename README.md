@@ -1,30 +1,45 @@
-<h1 align="center">Hi 👋, I'm archexcellion</h1>
-<h3 align="center">A passionate fullstack developer from Thailand</h3>
+<h1 align="center">Hi, I'm archexcellion 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=archexcellion&label=Profile%20views&color=0e75b6&style=flat" alt="archexcellion" /> </p>
+<p align="center">
+  Full-stack developer building practical, user-focused web applications.
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archexcellion" alt="archexcellion" /></a> </p>
+<p align="center">
+  <a href="https://github.com/archexcellion?tab=followers">
+    <img src="https://img.shields.io/github/followers/archexcellion?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
+  </a>
+  <a href="mailto:Jakphat.info@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Website, game development**
+## About me
 
+- 🔭 Building full-stack products with modern frontend and backend tools
+- 🌱 Exploring scalable application architecture and better developer workflows
+- 🧩 Interested in authentication, REST APIs, databases, and polished interfaces
+- 💬 Happy to connect and collaborate on useful software
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jakphat.info@gmail.com) 
+## Tech stack
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=archexcellion&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=archexcellion&theme=great-gatsby&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=archexcellion&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,vue,fastapi,postgres,supabase,tailwind,docker,git,github,vercel&perline=7" alt="TypeScript, JavaScript, Python, React, Next.js, Vue, FastAPI, PostgreSQL, Supabase, Tailwind CSS, Docker, Git, GitHub, and Vercel" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=archexcellion&theme=great-gatsby&no-frame=true&no-bg=true&margin-w=4)
+## What I work on
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=archexcellion&limit=5&theme=great-gatsby&combine_all_yearly_contributions=true)
+- 📚 Exam-practice platforms with grading, history, and progress tracking
+- 🔐 Full-stack authentication using JWT and Google OAuth
+- ⚡ Responsive web apps powered by Vue, React, Next.js, and FastAPI
+- 🐳 Reproducible development environments with Docker and PostgreSQL
 
----
-[![](https://visitcount.itsvg.in/api?id=archexcellion&icon=0&color=7)](https://visitcount.itsvg.in)
+## GitHub activity
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=archexcellion&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="archexcellion's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archexcellion&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <i>Let's turn ideas into software.</i>
+</p>
