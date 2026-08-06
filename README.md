@@ -36,8 +36,16 @@
 ## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=archexcellion&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="archexcellion's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=archexcellion&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+  <a href="https://github.com/archexcellion?tab=repositories">
+    <img src="https://img.shields.io/badge/View_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View my GitHub repositories" />
+  </a>
+  <a href="https://github.com/archexcellion?tab=followers">
+    <img src="https://img.shields.io/github/followers/archexcellion?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/archexcellion">View my contributions and latest activity →</a>
 </p>
 
 <p align="center">
